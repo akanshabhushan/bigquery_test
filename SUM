@@ -1,0 +1,2 @@
+SELECT SUM (total_pop)
+FROM bigquery-public-data.census_bureau_acs.blockgroup_2010_5yr
