@@ -1,0 +1,1 @@
+SELECT IF ("asian_pop,bigquery-public-data.census_bureau_acs.blockgroup_2010_5yr " = "asian", "1","0")
