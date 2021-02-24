@@ -1,0 +1,2 @@
+Select AVG (total_pop)
+from bigquery-public-data.census_bureau_acs.blockgroup_2010_5yr
